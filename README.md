@@ -20,6 +20,8 @@ Our project is motivated by the need for an effective solution to classify brain
 - **No Tumor:** This category indicates MRI scans that do not show the presence of any brain tumor.
 
 Accurate classification of brain MRI scans is critical for timely diagnosis and treatment. Our ViT-based model aims to address this challenge effectively.
+![image](https://github.com/NomanShabeer/Brain-Tumor-Classification-Model-using-Vision-Transformer/assets/144251597/e4d49683-0a17-4b0e-a16a-03f7e5980960)
+
 
 ## Dataset
 
