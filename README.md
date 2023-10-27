@@ -76,6 +76,9 @@ pip install tensorflow tensorflow-addons numpy matplotlib plotly seaborn scikit-
 ```
 
 3. Run `brain-tumor-using-vision-transformer.ipynb` to preprocess the data, create and train the ViT model.
+## **Results:**
+In the end, I could validate a test image passed through the model.
+![image](https://github.com/NomanShabeer/Brain-Tumor-Classification-Model-using-Vision-Transformer/assets/144251597/a301cef2-df2b-499c-aaaf-6d2d62c7c120)
 
 ## Customization
 
